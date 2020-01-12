@@ -3,9 +3,13 @@
 Algorithms:
 
 Dijkstra: https://github.com/Petretooo/Algorithms-and-Data-Structures/tree/master/Dijkstra/Dijkstra
+
 Euclid: https://github.com/Petretooo/Algorithms-and-Data-Structures/tree/master/Euclid/Euclid
+
 Hanoi: https://github.com/Petretooo/Algorithms-and-Data-Structures/tree/master/Hanoi/uht_hanoi
+
 Recursions: https://github.com/Petretooo/Algorithms-and-Data-Structures/tree/master/Recursion/Recursion
+
 Simple Numbers: https://github.com/Petretooo/Algorithms-and-Data-Structures/tree/master/SimpleNumbers/SimpleNumbers
 
 Sorting Algorithms:
