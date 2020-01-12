@@ -1,0 +1,14 @@
+D:\Maria\Onedrive\Docs\Teaching\Алгоритми и Структури от Данни\1к. Софтуерно Инженерство РЕДОВНО - Упражнения (2018)\Упражнение 6\SimplaHashTable\SimplaHashTable\bin\Debug\SimplaHashTable.exe.config
+D:\Maria\Onedrive\Docs\Teaching\Алгоритми и Структури от Данни\1к. Софтуерно Инженерство РЕДОВНО - Упражнения (2018)\Упражнение 6\SimplaHashTable\SimplaHashTable\bin\Debug\SimplaHashTable.exe
+D:\Maria\Onedrive\Docs\Teaching\Алгоритми и Структури от Данни\1к. Софтуерно Инженерство РЕДОВНО - Упражнения (2018)\Упражнение 6\SimplaHashTable\SimplaHashTable\bin\Debug\SimplaHashTable.pdb
+D:\Maria\Onedrive\Docs\Teaching\Алгоритми и Структури от Данни\1к. Софтуерно Инженерство РЕДОВНО - Упражнения (2018)\Упражнение 6\SimplaHashTable\SimplaHashTable\obj\Debug\SimplaHashTable.csprojResolveAssemblyReference.cache
+D:\Maria\Onedrive\Docs\Teaching\Алгоритми и Структури от Данни\1к. Софтуерно Инженерство РЕДОВНО - Упражнения (2018)\Упражнение 6\SimplaHashTable\SimplaHashTable\obj\Debug\SimplaHashTable.csproj.CoreCompileInputs.cache
+D:\Maria\Onedrive\Docs\Teaching\Алгоритми и Структури от Данни\1к. Софтуерно Инженерство РЕДОВНО - Упражнения (2018)\Упражнение 6\SimplaHashTable\SimplaHashTable\obj\Debug\SimplaHashTable.exe
+D:\Maria\Onedrive\Docs\Teaching\Алгоритми и Структури от Данни\1к. Софтуерно Инженерство РЕДОВНО - Упражнения (2018)\Упражнение 6\SimplaHashTable\SimplaHashTable\obj\Debug\SimplaHashTable.pdb
+D:\Study\Algotithms and Data Structures\Implementations\Map(Dictionary)\SimplaHashTable\SimplaHashTable\bin\Debug\SimplaHashTable.exe.config
+D:\Study\Algotithms and Data Structures\Implementations\Map(Dictionary)\SimplaHashTable\SimplaHashTable\bin\Debug\SimplaHashTable.exe
+D:\Study\Algotithms and Data Structures\Implementations\Map(Dictionary)\SimplaHashTable\SimplaHashTable\bin\Debug\SimplaHashTable.pdb
+D:\Study\Algotithms and Data Structures\Implementations\Map(Dictionary)\SimplaHashTable\SimplaHashTable\obj\Debug\SimplaHashTable.csprojAssemblyReference.cache
+D:\Study\Algotithms and Data Structures\Implementations\Map(Dictionary)\SimplaHashTable\SimplaHashTable\obj\Debug\SimplaHashTable.csproj.CoreCompileInputs.cache
+D:\Study\Algotithms and Data Structures\Implementations\Map(Dictionary)\SimplaHashTable\SimplaHashTable\obj\Debug\SimplaHashTable.exe
+D:\Study\Algotithms and Data Structures\Implementations\Map(Dictionary)\SimplaHashTable\SimplaHashTable\obj\Debug\SimplaHashTable.pdb

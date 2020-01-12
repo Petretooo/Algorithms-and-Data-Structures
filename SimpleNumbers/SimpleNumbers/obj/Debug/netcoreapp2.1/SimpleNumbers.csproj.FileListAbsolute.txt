@@ -1,0 +1,10 @@
+D:\Study\Algotithms and Data Structures\Simple Numbers\SimpleNumbers\SimpleNumbers\bin\Debug\netcoreapp2.1\SimpleNumbers.deps.json
+D:\Study\Algotithms and Data Structures\Simple Numbers\SimpleNumbers\SimpleNumbers\bin\Debug\netcoreapp2.1\SimpleNumbers.runtimeconfig.json
+D:\Study\Algotithms and Data Structures\Simple Numbers\SimpleNumbers\SimpleNumbers\bin\Debug\netcoreapp2.1\SimpleNumbers.runtimeconfig.dev.json
+D:\Study\Algotithms and Data Structures\Simple Numbers\SimpleNumbers\SimpleNumbers\bin\Debug\netcoreapp2.1\SimpleNumbers.dll
+D:\Study\Algotithms and Data Structures\Simple Numbers\SimpleNumbers\SimpleNumbers\bin\Debug\netcoreapp2.1\SimpleNumbers.pdb
+D:\Study\Algotithms and Data Structures\Simple Numbers\SimpleNumbers\SimpleNumbers\obj\Debug\netcoreapp2.1\SimpleNumbers.csproj.CoreCompileInputs.cache
+D:\Study\Algotithms and Data Structures\Simple Numbers\SimpleNumbers\SimpleNumbers\obj\Debug\netcoreapp2.1\SimpleNumbers.AssemblyInfoInputs.cache
+D:\Study\Algotithms and Data Structures\Simple Numbers\SimpleNumbers\SimpleNumbers\obj\Debug\netcoreapp2.1\SimpleNumbers.AssemblyInfo.cs
+D:\Study\Algotithms and Data Structures\Simple Numbers\SimpleNumbers\SimpleNumbers\obj\Debug\netcoreapp2.1\SimpleNumbers.dll
+D:\Study\Algotithms and Data Structures\Simple Numbers\SimpleNumbers\SimpleNumbers\obj\Debug\netcoreapp2.1\SimpleNumbers.pdb

@@ -1,0 +1,22 @@
+D:\Study\Algotithms and Data Structures\Our Own List\List\List\bin\Debug\netcoreapp2.1\List.deps.json
+D:\Study\Algotithms and Data Structures\Our Own List\List\List\bin\Debug\netcoreapp2.1\List.runtimeconfig.json
+D:\Study\Algotithms and Data Structures\Our Own List\List\List\bin\Debug\netcoreapp2.1\List.runtimeconfig.dev.json
+D:\Study\Algotithms and Data Structures\Our Own List\List\List\bin\Debug\netcoreapp2.1\List.dll
+D:\Study\Algotithms and Data Structures\Our Own List\List\List\bin\Debug\netcoreapp2.1\List.pdb
+D:\Study\Algotithms and Data Structures\Our Own List\List\List\obj\Debug\netcoreapp2.1\List.csprojAssemblyReference.cache
+D:\Study\Algotithms and Data Structures\Our Own List\List\List\obj\Debug\netcoreapp2.1\List.csproj.CoreCompileInputs.cache
+D:\Study\Algotithms and Data Structures\Our Own List\List\List\obj\Debug\netcoreapp2.1\List.AssemblyInfoInputs.cache
+D:\Study\Algotithms and Data Structures\Our Own List\List\List\obj\Debug\netcoreapp2.1\List.AssemblyInfo.cs
+D:\Study\Algotithms and Data Structures\Our Own List\List\List\obj\Debug\netcoreapp2.1\List.dll
+D:\Study\Algotithms and Data Structures\Our Own List\List\List\obj\Debug\netcoreapp2.1\List.pdb
+D:\Study\Algotithms and Data Structures\Implementations\List\List\bin\Debug\netcoreapp2.1\List.deps.json
+D:\Study\Algotithms and Data Structures\Implementations\List\List\bin\Debug\netcoreapp2.1\List.runtimeconfig.json
+D:\Study\Algotithms and Data Structures\Implementations\List\List\bin\Debug\netcoreapp2.1\List.runtimeconfig.dev.json
+D:\Study\Algotithms and Data Structures\Implementations\List\List\bin\Debug\netcoreapp2.1\List.dll
+D:\Study\Algotithms and Data Structures\Implementations\List\List\bin\Debug\netcoreapp2.1\List.pdb
+D:\Study\Algotithms and Data Structures\Implementations\List\List\obj\Debug\netcoreapp2.1\List.csprojAssemblyReference.cache
+D:\Study\Algotithms and Data Structures\Implementations\List\List\obj\Debug\netcoreapp2.1\List.csproj.CoreCompileInputs.cache
+D:\Study\Algotithms and Data Structures\Implementations\List\List\obj\Debug\netcoreapp2.1\List.AssemblyInfoInputs.cache
+D:\Study\Algotithms and Data Structures\Implementations\List\List\obj\Debug\netcoreapp2.1\List.AssemblyInfo.cs
+D:\Study\Algotithms and Data Structures\Implementations\List\List\obj\Debug\netcoreapp2.1\List.dll
+D:\Study\Algotithms and Data Structures\Implementations\List\List\obj\Debug\netcoreapp2.1\List.pdb

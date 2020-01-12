@@ -1,0 +1,7 @@
+C:\Users\fmi\Desktop\MySecondSolution\MyListProject\bin\Debug\MyListProject.exe.config
+C:\Users\fmi\Desktop\MySecondSolution\MyListProject\bin\Debug\MyListProject.exe
+C:\Users\fmi\Desktop\MySecondSolution\MyListProject\bin\Debug\MyListProject.pdb
+C:\Users\fmi\Desktop\MySecondSolution\MyListProject\obj\Debug\MyListProject.csprojAssemblyReference.cache
+C:\Users\fmi\Desktop\MySecondSolution\MyListProject\obj\Debug\MyListProject.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Desktop\MySecondSolution\MyListProject\obj\Debug\MyListProject.exe
+C:\Users\fmi\Desktop\MySecondSolution\MyListProject\obj\Debug\MyListProject.pdb
